@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-csgo-radar",
+  "version": "0.3.1",
+  "description": "Node.JS game state reader and writer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "kostamilorava",
+  "license": "ISC",
+  "dependencies": {
+    "memoryjs": "^3.4.0"
+  }
+}
