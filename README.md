@@ -1,6 +1,5 @@
 # <div align="center">Node.JS CSGO Radar</div>
 
----
 
 ## · Info
 
