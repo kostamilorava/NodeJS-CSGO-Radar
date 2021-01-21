@@ -1,9 +1,6 @@
 # <div align="center">Node.JS CSGO Radar</div>
 
-
-## · Info
-
-This project is updated, modified version of widely available projects that all are outdated.
+This project is updated version of widely available outdated projects.
 
 It's proof of concept that Node.JS can be used as tool for managing such tasks.
 
