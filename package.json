@@ -10,6 +10,6 @@
   "author": "kostamilorava",
   "license": "ISC",
   "dependencies": {
-    "memoryjs": "^3.4.0"
+    "memoryjs": "^3.5"
   }
 }
